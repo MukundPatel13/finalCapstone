@@ -1,6 +1,20 @@
-#Capstone Project II 
+# Capstone Project II : Manage task allocation 
 This capstone project is to design program for small business which can be used to manage 
 tasks assigned to each member of the team
+## Content
+- [task manager](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject2/task_manager.py)
+- [Task file](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject2/tasks.txt)
+- [User file](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject2/user.txt)
+- [ReadMe](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject2/README.md)
+
+## Installation
+- Install [Python 3](https://www.python.org/downloads/)
+- Install [Pycharm ](https://www.jetbrains.com/help/pycharm/installation-guide.html)
+- Clone the project in pycharm [Clone Project ](https://github.com/MukundPatel13/finalCapstone.git)
+--------------------------------------------------------------------------------------------------------------------------------------
+**************************************************************************************************************************************
+--------------------------------------------------------------------------------------------------------------------------------------
+## Usage based on below description : 
 
 ## Log In Section
 - Asks user to input their username and checks it against the data in the user.txt file.
