@@ -3,9 +3,9 @@ A program to allow the user to access two different financial calculators:
 1.Investment calculator 
 2.Home loan repayment calculator
 
-##Content : 
--[Finance calculator](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject1/finance_calculators.py)
--[ReadMe](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject1/README.md)
+##Content
+- [Finance calculator](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject1/finance_calculators.py)
+- [ReadMe](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject1/README.md)
 
 ## Installation
 - Install [Python 3](https://www.python.org/downloads/)
