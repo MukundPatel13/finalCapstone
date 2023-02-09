@@ -1,6 +1,21 @@
-# Capstone Project III
+# Capstone Project III - Manage task Alloction ( using Function , List ) 
 This capstone project is to design program for small business which can be used to manage
 tasks assigned to each member of the team
+
+## Content
+- [task manager](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject3/task_manager.py)
+- [Task file](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject3/tasks.txt)
+- [User file](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject3/user.txt)
+- [ReadMe](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject3/README.md)
+
+## Installation
+- Install [Python 3](https://www.python.org/downloads/)
+- Install [Pycharm ](https://www.jetbrains.com/help/pycharm/installation-guide.html)
+- Clone the project in pycharm [Clone Project ](https://github.com/MukundPatel13/finalCapstone.git)
+--------------------------------------------------------------------------------------------------------------------------------------
+**************************************************************************************************************************************
+--------------------------------------------------------------------------------------------------------------------------------------
+## Usage based on below description : 
 
 ## Log In Section
 - Asks user to input their username and checks it against the data in the user.txt file.
@@ -17,6 +32,7 @@ If the user is admin, allows them to access the following menu with additional f
 - gr - Generate reports
 - ds - Display statistics
 - e -  Exit
+
 ### Regular User
 If the user is not admin, displays a restricted menu:
 - a  -  Add a task
