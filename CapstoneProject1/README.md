@@ -3,7 +3,7 @@ A program to allow the user to access two different financial calculators:
 1.Investment calculator 
 2.Home loan repayment calculator
 
-##Content
+## Content
 - [Finance calculator](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject1/finance_calculators.py)
 - [ReadMe](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject1/README.md)
 
@@ -14,7 +14,7 @@ A program to allow the user to access two different financial calculators:
 --------------------------------------------------------------------------------------------------------------------------------------
 **************************************************************************************************************************************
 --------------------------------------------------------------------------------------------------------------------------------------
-##Usage based on below description : 
+## Usage based on below description : 
 ### Menu
 User is allowed to choose which calculation they want to do by choosing either
 'investment' or 'bond'.
