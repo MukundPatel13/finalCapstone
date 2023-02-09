@@ -1,6 +1,20 @@
-# HyperionDev Capstone Project IV - OOP
+# HyperionDev Capstone Project IV - Stock and Inventory management using OOPS concept 
 
 A stock-taking and inventory management program for Nike warehouses that reads a text file and allows the user to perform a range of functions on 'Shoe' objects generated from  the file.
+
+## Content
+- [Inventory managemet](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject4/inventory.py)
+- [Inventory file](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject4/inventory.txt)
+- [ReadMe](https://github.com/MukundPatel13/finalCapstone/blob/master/CapstoneProject4/README.md)
+
+## Installation
+- Install [Python 3](https://www.python.org/downloads/)
+- Install [Pycharm ](https://www.jetbrains.com/help/pycharm/installation-guide.html)
+- Clone the project in pycharm [Clone Project ](https://github.com/MukundPatel13/finalCapstone.git)
+--------------------------------------------------------------------------------------------------------------------------------------
+**************************************************************************************************************************************
+--------------------------------------------------------------------------------------------------------------------------------------
+## Usage based on below description : 
 
 ## Menu
 
@@ -12,7 +26,6 @@ v -   View data about every shoe in the inventory list\
 rs -  Restock the lowest quantity shoe in the inventory list\
 s -   Search for a shoe by product code\
 vps - Show the value per shoe (cost*quantity) for each shoe in the inventory
-list\
 h -   Print an \'on sale\' notice for the product with the highest quantity\
 q -   Quit the program\
 
