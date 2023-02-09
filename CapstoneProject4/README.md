@@ -1,4 +1,4 @@
-# HyperionDev Capstone Project IV - Stock and Inventory management using OOPS concept 
+# Capstone Project IV - Stock and Inventory management using OOPS concept 
 
 A stock-taking and inventory management program for Nike warehouses that reads a text file and allows the user to perform a range of functions on 'Shoe' objects generated from  the file.
 
